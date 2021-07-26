@@ -1,8 +1,8 @@
  # Smart Queue Monitoring System
 In this course, I have learned about different hardwares and the methods to access these different hardwares in dev-cloud. Each of these hardwares have its own
-advantages. By using these hardwares in the Dev cloud, the performance of these hardwares are analysed. A person-detection model is used to identify the perons
+advantages. By using these hardwares in the Dev cloud, the performance of these hardwares are analysed. A person-detection model is used to identify the person
 working in three different scenarios. In the all the three scenarios, the person is detected using a bounding box and the number of persons are counted. Time
-taken to identify the persons in 3 different scenarios are analysed and documented.
+taken to identify them in 3 different scenarios are analysed and documented.
 
 ## Proposal Submission
 
