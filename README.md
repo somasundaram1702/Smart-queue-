@@ -26,7 +26,7 @@ Command line arguments are available in tje jupyter notebook
 
 The project was ran on a jupyter notebook. For the 3 different scenarios, 3 person_detect.py files are there inside the folder. 
 Also you can find 3 different script files i.e. bash-'.sh' files for 3 scenarios are present inside the folder.
-The commands used to run the files in the dev-cloud, commands used to run different hardwares are given in the jupyter files.
+The commands used to run the files in the dev-cloud and commands used to run different hardwares are given in the jupyter files.
 
 ## Results
 
